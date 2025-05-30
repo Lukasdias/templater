@@ -6,6 +6,7 @@
   <!-- Propriedades globais - variaveis que persistem entre paginas -->
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
+  <property name="my_var" default="test" />
 
   <new_page_2 />
 </fable>
